@@ -1,4 +1,5 @@
-## Javascript plugins and frameworks experiments
+Javascript plugins and frameworks experiments
+=============================================
 
 This is my own experiments with some javascript plugins and frameworks.
 
