@@ -3,7 +3,7 @@ Javascript experiments
 
 This is my experiments with html, css and javascript plugins and frameworks.
 
-#### First Experiment: Basic Grid with jsGrid
+## First Experiment: Basic Grid with jsGrid
 
 It contains:
 
@@ -18,7 +18,7 @@ TODO:
  * Checkbox for multiple selections
  * Tree grid
 
-#### Second Experiment: Simple login page with Twitter Bootstrap
+## Second Experiment: Simple login page with Twitter Bootstrap
 
 TODO:
 
