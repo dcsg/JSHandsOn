@@ -1,7 +1,11 @@
-Login Page using Twitter Bootstrap
-=============================================
+Simple Datagrid with Knockout.js and Twitter Bootstrap
+======================================================
 
-A simple login page that uses the Twitter Bootstrap.
+A Simple Datagrid with Knockout.js and Twitter Bootstrap
 
-Docs: http://twitter.github.com/bootstrap/
+## TODO
+
+* Add actions buttons
+* Add sortable
+* Add search field
 
