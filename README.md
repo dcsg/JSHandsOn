@@ -23,3 +23,12 @@ TODO:
 TODO:
 
 * Recover password form
+
+## Second Experiment: Simple Datagrid with Knockout.js and Twitter Bootstrap
+
+## TODO
+
+* Add actions buttons
+* Add sortable
+* Add search field
+
