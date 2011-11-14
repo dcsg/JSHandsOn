@@ -1,7 +1,7 @@
-Javascript plugins and frameworks experiments
-=============================================
+Javascript experiments
+======================
 
-This is my own experiments with some javascript plugins and frameworks.
+This is my experiments with html, css and javascript plugins and frameworks.
 
 #### First Experiment: Basic Grid with jsGrid
 
@@ -17,3 +17,9 @@ TODO:
  * CRUD Operations
  * Checkbox for multiple selections
  * Tree grid
+
+#### Second Experiment: Simple login page with Twitter Bootstrap
+
+TODO:
+
+* Recover password form
