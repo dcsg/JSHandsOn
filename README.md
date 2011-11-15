@@ -24,7 +24,7 @@ TODO:
 
 * Recover password form
 
-## Second Experiment: Simple Datagrid with Knockout.js and Twitter Bootstrap
+## Third Experiment: Simple Datagrid with Knockout.js and Twitter Bootstrap
 
 ## TODO
 
