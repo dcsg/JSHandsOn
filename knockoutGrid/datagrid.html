@@ -93,17 +93,25 @@
     <div class="row">
       <div class="span14">
         <p>You have asked for <span data-bind="text: items().length">&nbsp;</span> gift(s)</p>
+
+        <script src="js/jquery/jquery.tablesorter.min.js"></script>
+        <script >
+          $(function() {
+            $("table#sortTableExample").tablesorter({ sortList: [[1,0]] });
+          });
+        </script>
       <table class="zebra-striped" id="sortTableExample" data-bind="visible: items().length > 0">
         <thead>
           <tr>
-            <th class="yellow header headerSortDown">First Name</th>
-            <th class="blue header">Last Name</th>
+            <th class="yellow header headerSortDown" data-bind="click:  function(event) { sortByName(event,'ASC', 'firstName') }">First Name</th>
+            <th class="blue header" data-bind="click:  function(event) { sortByName(event, 'ASC', 'lastName') }">Last Name</th>
             <th class="green header">Language</th>
           </tr>
         </thead>
         <tbody data-bind='template: {name: "gridTemplate", foreach: items}'> </tbody>
 
       </table>
+        
 
       <script type="text/html" id="gridTemplate">
         <tr>
