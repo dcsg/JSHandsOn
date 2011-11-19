@@ -11,7 +11,7 @@ It contains:
  * PHP/MySQL connection to retrieve data
  * HTML file with the javascript code to build the grid
 
-TODO:
+#### TODO:
 
 * Advanced options, like:
  * CRUD Operations
@@ -20,17 +20,17 @@ TODO:
 
 ## Second Experiment: Simple login page with Twitter Bootstrap
 
-TODO:
+#### TODO:
 
 * Recover password form
 
 ## Third Experiment: Simple Datagrid with Knockout.js and Twitter Bootstrap
 
-## TODO
+#### TODO
 
 * Add actions buttons
 * Add search field
 
-## Done
+#### Done
 
 * Add sortable
