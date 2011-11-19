@@ -29,6 +29,8 @@ TODO:
 ## TODO
 
 * Add actions buttons
-* Add sortable
 * Add search field
 
+## Done
+
+* Add sortable
